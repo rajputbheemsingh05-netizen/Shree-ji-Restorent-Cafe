@@ -1,0 +1,53 @@
+\<!DOCTYPE html>
+\<html lang="hi">
+\<head>
+\<meta charset="UTF-8" />
+\<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+\<title>Shee Ji Restaurant & Cafe\</title>
+\<link rel="stylesheet" href="style.css" />
+\</head>
+\<body>
+\<header>
+\<h1>Shee Ji Restaurant & Cafe\</h1>
+\<div class="language-switcher">
+\<button onclick="setLanguage('hi')">рд╣рд┐рдВрджреА\</button>
+\<button onclick="setLanguage('en')">English\</button>
+\</div>
+\</header>
+\<section id="contact">
+\<h2 data-hi="рд╕рдВрдкрд░реНрдХ рдХрд░реЗрдВ" data-en="Contact Us">\</h2>
+\<p>ЁЯУЮ 8959498363\</p>
+\</section>
+\<section id="menu">
+\<h2 data-hi="рдореЗрдиреВ" data-en="Menu">\</h2>
+\<div class="menu-item">
+\<img src=" <https://source.unsplash.com/400x300/?kachori>" alt="Kachori"/>
+\<h3 data-hi="рдХрдЪреМрд░реА" data-en="Kachori">\</h3>
+\<p>тВ╣10\</p>
+\</div>
+\<div class="menu-item">
+\<img src=" <https://source.unsplash.com/400x300/?samosa>" alt="Samosa"/>
+\<h3 data-hi="рд╕рдореЛрд╕рд╛" data-en="Samosa">\</h3>
+\<p>тВ╣7\</p>
+\</div>
+\<div class="menu-item">
+\<img src=" <https://source.unsplash.com/400x300/?panipuri>" alt="Panipuri"/>
+\<h3 data-hi="рдкрд╛рдиреАрдкреБрд░реА" data-en="Panipuri">\</h3>
+\<p>тВ╣10 рдкреНрд░рддрд┐ рдкреНрд▓реЗрдЯ (7 рдкреБрд░реА)\</p>
+\</div>
+\<div class="menu-item">
+\<img src=" <https://source.unsplash.com/400x300/?snacks>" alt="Snacks"/>
+\<h3 data-hi="рдХреБрд░рдХреБрд░реЗ, рдЪреЙрдХрд▓реЗрдЯ рдмрд┐рд╕реНрдХрд┐рдЯ, рд╕реНрд╡реАрдЯ" data-en="Kurkure, Chocolate Biscuits, Sweet">\</h3>
+\<p>тВ╣тАФ\</p>
+\</div>
+\</section>
+\<section id="hours">
+\<h2 data-hi="рд╕рдордп" data-en="Opening Hours">\</h2>
+\<p data-hi="рд╕реБрдмрд╣ 7:30 рд╕реЗ 1:00 рдФрд░ рджреЛрдкрд╣рд░ 2:00 рд╕реЗ 7:30 рдмрдЬреЗ рддрдХ рдЦреБрд▓рд╛ рд░рд╣реЗрдЧрд╛ред" data-en="Open 7:30 AM тАУ 1:00 PM and 2:00 PM тАУ 7:30 PM">\</p>
+\</section>
+\<footer>
+\<p>\&copy; 2025 Shee Ji Restaurant & Cafe\</p>
+\</footer>
+\<script src="script.js">\</script>
+\</body>
+\</html>
